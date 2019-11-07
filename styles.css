@@ -1,0 +1,78 @@
+/* Element */
+
+body {
+    background-color: #151d1b;
+    font-size: 2.5em;
+}
+
+main {
+    position: absolute;
+    left: 3.5em;
+    top: -5em;
+}
+
+.triangle-up1 {
+       width: 0;
+    height: 0;
+    border-left: 1em solid transparent;
+    border-right: 1em solid transparent;
+    border-bottom: 2em solid orange;
+    position: absolute;
+    top: 10em;
+    left: 20em;
+}
+
+.triangle-up2 {
+      width: 0;
+    height: 0;
+    border-left: 1em solid transparent;
+    border-right: 1em solid transparent;
+    border-bottom: 2em solid orange;
+    position: absolute;
+    top: 12em;
+    left: 19em;
+}
+
+.triangle-up3 {
+ width: 0;
+    height: 0;
+    border-left: 1em solid transparent;
+    border-right: 1em solid transparent;
+    border-bottom: 2em solid orange;
+    position: absolute;
+    top: 12em;
+    left: 21em;
+}
+
+.triangle-down1 {
+    width: 0;
+    height: 0;
+    border-left: 1em solid transparent;
+    border-right: 1em solid transparent;
+    border-top: 2em solid red;
+    position: absolute;
+    top: 15em;
+    left: 19em;
+}
+
+.triangle-down2 {
+    width: 0;
+    height: 0;
+    border-left: 1em solid transparent;
+    border-right: 1em solid transparent;
+    border-top: 2em solid red;
+    position: absolute;
+    top: 15em;
+    left: 21em;
+}
+
+.triangle-down3 {
+    width: 0;
+    height: 0;
+    border-left: 1em solid transparent;
+    border-right: 1em solid transparent;
+    border-top: 2em solid red;
+    position: absolute;
+    top: 17em;
+    left: 20em;
+}
